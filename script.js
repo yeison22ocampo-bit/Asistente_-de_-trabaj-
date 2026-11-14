@@ -12,7 +12,7 @@ const MAX_HISTORIAL = 20;                   // Mensajes recientes que se envían
 // Pega aquí la URL "Publicar en la Web > CSV" de cada pestaña (ver GUIA_APIFY_SHEETS.md).
 // Son datos públicos de ofertas: no pongas aquí claves ni datos personales.
 const HOJAS_CSV = {
-  linkedin: '',
+  linkedin: '',https://www.linkedin.com/jobs/search/?position=1&pageNum=0
   computrabajo: '',
   elempleo: ''
 };
